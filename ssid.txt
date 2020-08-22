@@ -1,0 +1,9 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        LXSWJD 2 ec:26:ca:b7:52:ec -94  6,-1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                    MERCURY_E326 1c:60:de:a8:e3:26 -91  1,+1    Y  -- NONE
+                     gongchengbu 94:d9:b3:04:12:e2 -91  11,-1   Y  CN WPA(PSK/AES/AES) WPA2(PSK/AES/AES) 
+                        LXSWJD 2 ec:26:ca:b7:53:49 -87  5       Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                        LXSWJD 2 ec:26:ca:b7:57:47 -87  6,-1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                        LXSWJD 2 ec:26:ca:b7:53:52 -75  10      Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                        LXSWJD 2 ec:26:ca:b7:53:d9 -70  2,+1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                        LXSWJD 2 ec:26:ca:b7:52:fa -53  13,-1   Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
